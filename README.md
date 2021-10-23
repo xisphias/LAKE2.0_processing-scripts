@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/420248298.svg)](https://zenodo.org/badge/latestdoi/420248298)
+
 # LAKE2.0_processing scripts
  Processing scripts for LAKE2.0 model input and output
 
