@@ -5,6 +5,7 @@
  Lake2.0 model outputs and lake temperature validation datasets.
 
 scripts\
+	
 	Pre-processing
 		Toolik
 			scripts\formatToolikhrly_final.R
@@ -21,7 +22,7 @@ scripts\
 		All
 			scripts\standardizeLakeTempData.R
 				Used to standardize measured lake water temperature data for use with post processing scripts.
-
+	
 	Post-processing
 		All
 			scripts\plotLaketemp_Final.R
@@ -32,20 +33,24 @@ scripts\
 				Calculate errors for scenarios with seasons, Combine errors for seasonal barplot. Fig 6
 
 model output\
+	
 	Toolik
 		model output\Toolik\layers 1 1.dat
 		model output\Toolik\soil_temp 1 1.dat
 		model output\Toolik\water_temp 1 1.dat
+	
 	FoxDen
 		model output\FoxDen\layers 1 1.dat
 		model output\FoxDen\soil_temp 1 1.dat
 		model output\FoxDen\water_temp 1 1.dat
+	
 	Atqasuk
 		model output\Atqasuk\layers 1 1.dat
 		model output\Atqasuk\soil_temp 1 1.dat
 		model output\Atqasuk\water_temp 1 1.dat
 
 validation data\
+	
 	validation data\Toolik_LakeTemp.csv
 	validation data\FoxDen_LakeTemp.csv
 	validation data\Atqasuk_LakeTemp.csv
