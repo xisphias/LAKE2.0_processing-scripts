@@ -18,7 +18,8 @@ scripts\
 			scripts\formatFoxDenDay_final.R
 				Used to format foxden met data for model
 		Atqasuk
-			none
+			scripts\Atqasuk\USGS_SM_Atqasuk_data_preprocess-v0.ipynb
+				Used to format and calibrate met data for model
 		All
 			scripts\standardizeLakeTempData.R
 				Used to standardize measured lake water temperature data for use with post processing scripts.
