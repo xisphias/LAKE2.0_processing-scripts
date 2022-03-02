@@ -4,7 +4,9 @@ authors:
   - family-names: "Clark"
     given-names: "Jason"
     orcid: "https://orcid.org/00000-0002-4810-5261"
-title: "xisphias/LAKE2.0_processing-scripts: v2"
-version: v2
+  - family-names: "Jafarov"
+    given-names: "Elchin"
+title: "LAKE2.0_processing-scripts: v3"
+version: v3
 doi: 10.5281/zenodo.5593754
 date-released: 2021-10-28
